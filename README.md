@@ -3,6 +3,11 @@
 ## Composition
 [Elements of Art](https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html)
 <!-- https://courses.edtechleaders.org/crystalbridges/taa/cb_s1.html -->
+<!-- [Introducing Formal Analysis: Still Life](https://www.youtube.com/watch?v=kxALpig_Cac&ab_channel=GettyMuseum) -->
+
+<!-- [Types of camera angles](http://storystruggles.blogspot.com/2018/03/camera-angles-objective-subjective-or.html) -->
+
+<!-- [What is Character Perspective?](https://vimeo.com/219223876) -->
 
 ## Camera Basics
 
