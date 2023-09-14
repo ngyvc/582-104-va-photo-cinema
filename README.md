@@ -1,5 +1,9 @@
 # 582-104-va-photo-cinema
 
+## Composition
+[Elements of Art](https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html)
+<!-- https://courses.edtechleaders.org/crystalbridges/taa/cb_s1.html -->
+
 ## Camera Basics
 
 [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
