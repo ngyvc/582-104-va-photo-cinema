@@ -1,6 +1,19 @@
 # 582-104-va-photo-cinema
 
+## Shot Size
+
+[The Good The Bad and the Ugly - Ending Scene](https://youtu.be/6RvVRgNr08Y?t=11)
+
+[Shot Size in Filmaking](https://www.learnaboutfilm.com/film-language/picture/shotsize/)
+
+<!-- [Lesson 6: Visuals that move](https://www.itma.vt.edu/courses/visual/lesson_6_2.php)
+
+[A Guide Toward Camera Shots, Frames and Sizes](https://postpace.io/blog/a-guide-toward-camera-shots-frames-and-sizes/)
+
+[Photo Composition Part 1: Rule of Thirds and Shot Size](https://technicallyfunctional.org/2022/03/14/photo-composition-part-1-rule-of-thirds-and-shot-size/) -->
+
 ## Composition
+
 [Elements of Art](https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html)
 <!-- https://courses.edtechleaders.org/crystalbridges/taa/cb_s1.html -->
 <!-- [Introducing Formal Analysis: Still Life](https://www.youtube.com/watch?v=kxALpig_Cac&ab_channel=GettyMuseum) -->
