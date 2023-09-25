@@ -6,6 +6,12 @@
 
 [Dark Knight - Opening Scene](https://www.youtube.com/watch?v=0OYBEquZ_j0&ab_channel=coolhands7)
 
+[PBS PREVIEWS: NATIONAL PARKS](https://www.youtube.com/watch?v=mx8WbZIWCSM&ab_channel=PBS)
+
+[DamNation | Patagonia Films](https://www.youtube.com/watch?v=laTIbNVDQN8&ab_channel=Patagonia)
+
+<!-- [Artifishal | Patagonia Films](https://www.youtube.com/watch?v=XdNJ0JAwT7I&ab_channel=Patagonia-->
+
 <!-- [The Good The Bad and the Ugly - Ending Scene](https://youtu.be/6RvVRgNr08Y?t=11) -->
 
 [Shot Size in Filmaking](https://www.learnaboutfilm.com/film-language/picture/shotsize/)
