@@ -4,7 +4,9 @@
 
 [Shot (filmmaking)](https://en.wikipedia.org/wiki/Shot_(filmmaking))
 
-[The Good The Bad and the Ugly - Ending Scene](https://youtu.be/6RvVRgNr08Y?t=11)
+[Dark Knight - Opening Scene](https://www.youtube.com/watch?v=0OYBEquZ_j0&ab_channel=coolhands7)
+
+<!-- [The Good The Bad and the Ugly - Ending Scene](https://youtu.be/6RvVRgNr08Y?t=11) -->
 
 [Shot Size in Filmaking](https://www.learnaboutfilm.com/film-language/picture/shotsize/)
 
