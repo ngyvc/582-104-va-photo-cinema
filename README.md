@@ -1,5 +1,9 @@
 # 582-104-va-photo-cinema
 
+<!-- ## Editing
+
+[JP Auclair Street Segment (from Sherpas Cinemas' All.I.Can)](https://www.youtube.com/watch?v=1-VCWUtNm-4&ab_channel=SherpasCinema) -->
+
 ## Shot Size
 
 [Shot (filmmaking)](https://en.wikipedia.org/wiki/Shot_(filmmaking))
