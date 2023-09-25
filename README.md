@@ -2,6 +2,8 @@
 
 ## Shot Size
 
+[Shot (filmmaking)](https://en.wikipedia.org/wiki/Shot_(filmmaking))
+
 [The Good The Bad and the Ugly - Ending Scene](https://youtu.be/6RvVRgNr08Y?t=11)
 
 [Shot Size in Filmaking](https://www.learnaboutfilm.com/film-language/picture/shotsize/)
