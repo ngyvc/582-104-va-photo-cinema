@@ -10,7 +10,9 @@
 
 [A Guide Toward Camera Shots, Frames and Sizes](https://postpace.io/blog/a-guide-toward-camera-shots-frames-and-sizes/)
 
-[Photo Composition Part 1: Rule of Thirds and Shot Size](https://technicallyfunctional.org/2022/03/14/photo-composition-part-1-rule-of-thirds-and-shot-size/) -->
+[Photo Composition Part 1: Rule of Thirds and Shot Size](https://technicallyfunctional.org/2022/03/14/photo-composition-part-1-rule-of-thirds-and-shot-size/) 
+
+[Guide to Camera Shots: Every Shot Size Explained](https://www.studiobinder.com/blog/types-of-camera-shots-sizes-in-film/)-->
 
 ## Composition
 
