@@ -19,6 +19,15 @@
 
 [DamNation | Patagonia Films](https://www.youtube.com/watch?v=laTIbNVDQN8&ab_channel=Patagonia)
 
+### Exercise demo / example
+
+![Establishing Shot](references/shots-demo/shots-demo-001.jpg)
+![Long Shot](references/shots-demo/shots-demo-002.jpg)
+![Medium Shot](references/shots-demo/shots-demo-003.jpg)
+![Closeuo Shot](references/shots-demo/shots-demo-004.jpg)
+![Extreme Closeup Shot](references/shots-demo/shots-demo-005.jpg)
+
+
 <!-- [Artifishal | Patagonia Films](https://www.youtube.com/watch?v=XdNJ0JAwT7I&ab_channel=Patagonia-->
 
 <!-- [The Good The Bad and the Ugly - Ending Scene](https://youtu.be/6RvVRgNr08Y?t=11) -->
