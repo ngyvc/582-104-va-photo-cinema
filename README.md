@@ -6,6 +6,20 @@
 
 [JP Auclair Street Segment (from Sherpas Cinemas' All.I.Can)](https://www.youtube.com/watch?v=1-VCWUtNm-4&ab_channel=SherpasCinema) -->
 
+## Storyboards
+
+[Camera Angles Cheatsheet](https://downloads.boords.com/boords-camera-angles.pdf)
+
+[The Purpose Of Storyboarding](https://www.youtube.com/watch?v=BSOJiSUI0z8&ab_channel=picassosson)
+
+[Storyboard to Screen - Parasite: The Montage Scene](https://www.youtube.com/watch?v=y_j3ZyKXoXU&ab_channel=CinemaUniversity)
+​
+[Watch Disney Animation’s Head Of Story Share Animation Secrets & Sketch (Artists Alley) | SYFY WIRE](https://www.youtube.com/watch?v=IomgUWKjUxA&ab_channel=SYFY)
+
+Bonus:
+
+[Lessons From The Parasite Storyboards](https://www.youtube.com/watch?v=JE26E4IM_-g&ab_channel=ThomasFlight)
+
 ## Shot Size
 
 [Shot (filmmaking)](https://en.wikipedia.org/wiki/Shot_(filmmaking))
