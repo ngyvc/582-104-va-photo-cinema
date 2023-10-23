@@ -10,6 +10,10 @@
 
 [Visions of Light](https://vimeo.com/497115013)
 
+## Continuity - 180 Degree Rule
+
+[Film School: Establishing Film Continuity](https://www.youtube.com/watch?v=ALguEHV9VvA&ab_channel=NewYorkFilmAcademy)
+
 ## Subjective / Objective Perspective & POV Shots
 
 [What Is Character Perspective?](https://vimeo.com/219223876)
