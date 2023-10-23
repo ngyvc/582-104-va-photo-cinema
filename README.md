@@ -6,6 +6,24 @@
 
 [JP Auclair Street Segment (from Sherpas Cinemas' All.I.Can)](https://www.youtube.com/watch?v=1-VCWUtNm-4&ab_channel=SherpasCinema) -->
 
+## Cinematography
+
+[Visions of Light](https://vimeo.com/497115013)
+
+## Subjective / Objective Perspective & POV Shots
+
+[What Is Character Perspective?](https://vimeo.com/219223876)
+
+[Cinematographer Explains 3 Different Camera Lenses | Vanity Fair](https://www.youtube.com/watch?v=DGujsKb2e10&ab_channel=VanityFair)
+
+[Cinematic blend between subjective and objective POV](https://www.youtube.com/watch?v=u-Rdh1K-jEE&ab_channel=JanStripek)
+
+[THE LAB: DECOY | 6 Photographers 1 Man - A Portrait Photography Session With A Twist](https://www.youtube.com/watch?v=F-TyPfYMDK8&ab_channel=CanonAustralia)
+
+[Flamingo Chicks Trapped in Frozen Lake | Eden: Untamed Planet | BBC Earth](https://www.youtube.com/watch?v=-DerMxKmFdc&ab_channel=BBCEarth)
+
+[Wild Hamster Has A Graveyard Feast | Seven Worlds, One Planet | BBC Earth](https://www.youtube.com/watch?v=rkZ6gzyg7yY&ab_channel=BBCEarth)
+
 ## Storyboards
 
 [Camera Angles Cheatsheet](https://downloads.boords.com/boords-camera-angles.pdf)
