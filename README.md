@@ -16,6 +16,8 @@
 
 ## Subjective / Objective Perspective & POV Shots
 
+[CAMERA ANGLES: OBJECTIVE, SUBJECTIVE OR POINT OF VIEW?](https://storystruggles.blogspot.com/2018/03/camera-angles-objective-subjective-or.html)
+
 [What Is Character Perspective?](https://vimeo.com/219223876)
 
 [Cinematographer Explains 3 Different Camera Lenses | Vanity Fair](https://www.youtube.com/watch?v=DGujsKb2e10&ab_channel=VanityFair)
