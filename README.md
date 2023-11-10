@@ -10,6 +10,14 @@
 
 [Visions of Light](https://vimeo.com/497115013)
 
+## Reverse Film School | Vanity Fair
+
+[What Happens When A Movie Has No Script Supervisor?](https://www.youtube.com/watch?v=NAvn7CNpdB8&ab_channel=VanityFair)
+
+[What Happens When A Movie Has No Gaffer?](https://www.youtube.com/watch?v=wXcc79AmkyU&ab_channel=VanityFair)
+
+[What Happens to a Movie Without a Camera Operator?](https://www.youtube.com/watch?v=Kq_qBUeSLl4&ab_channel=VanityFair)
+
 ## Continuity - 180 Degree Rule
 
 [Film School: Establishing Film Continuity](https://www.youtube.com/watch?v=ALguEHV9VvA&ab_channel=NewYorkFilmAcademy)
