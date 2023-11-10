@@ -6,6 +6,10 @@
 
 [JP Auclair Street Segment (from Sherpas Cinemas' All.I.Can)](https://www.youtube.com/watch?v=1-VCWUtNm-4&ab_channel=SherpasCinema) -->
 
+## Lighting Patterns
+
+[Portrait Fundamentals: Lighting Patterns](https://www.digitalphotomentor.com/lessons/portrait-lighting-lighting-patterns/)
+
 ## Cinematography
 
 [Visions of Light](https://vimeo.com/497115013)
