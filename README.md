@@ -6,6 +6,10 @@
 
 [JP Auclair Street Segment (from Sherpas Cinemas' All.I.Can)](https://www.youtube.com/watch?v=1-VCWUtNm-4&ab_channel=SherpasCinema) -->
 
+## Sound
+
+[Making Waves: The Art of Cinematic Sound](https://www.youtube.com/watch?v=ZA5S7NfDhoc&ab_channel=GravitasMUSIC%7CFreeMovies)
+
 ## Lighting Patterns
 
 [Portrait Fundamentals: Lighting Patterns](https://www.digitalphotomentor.com/lessons/portrait-lighting-lighting-patterns/)
