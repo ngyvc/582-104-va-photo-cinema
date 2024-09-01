@@ -6,7 +6,7 @@
 
 [JP Auclair Street Segment (from Sherpas Cinemas' All.I.Can)](https://www.youtube.com/watch?v=1-VCWUtNm-4&ab_channel=SherpasCinema) -->
 
-## Sound
+<!-- ## Sound
 
 [Making Waves: The Art of Cinematic Sound](https://www.youtube.com/watch?v=ZA5S7NfDhoc&ab_channel=GravitasMUSIC%7CFreeMovies)
 
@@ -55,7 +55,6 @@
 [Storyboard to Screen - Parasite: The Montage Scene](https://www.youtube.com/watch?v=y_j3ZyKXoXU&ab_channel=CinemaUniversity)
 ​
 
-
 [Watch Disney Animation’s Head Of Story Share Animation Secrets & Sketch](https://www.youtube.com/watch?v=IomgUWKjUxA&ab_channel=SYFY)
 
 Bonus:
@@ -73,7 +72,7 @@ Bonus:
 
 [PBS PREVIEWS: NATIONAL PARKS](https://www.youtube.com/watch?v=mx8WbZIWCSM&ab_channel=PBS)
 
-[DamNation | Patagonia Films](https://www.youtube.com/watch?v=laTIbNVDQN8&ab_channel=Patagonia)
+[DamNation | Patagonia Films](https://www.youtube.com/watch?v=laTIbNVDQN8&ab_channel=Patagonia) -->
 
 ### Exercise demo / example
 
@@ -82,7 +81,6 @@ Bonus:
 ![Medium Shot](references/shots-demo/shots-demo-003.jpg)
 ![Closeuo Shot](references/shots-demo/shots-demo-004.jpg)
 ![Extreme Closeup Shot](references/shots-demo/shots-demo-005.jpg)
-
 
 <!-- [Artifishal | Patagonia Films](https://www.youtube.com/watch?v=XdNJ0JAwT7I&ab_channel=Patagonia-->
 
@@ -96,9 +94,9 @@ Bonus:
 
 [Guide to Camera Shots: Every Shot Size Explained](https://www.studiobinder.com/blog/types-of-camera-shots-sizes-in-film/)-->
 
-## Composition
+<!-- ## Composition
 
-[Elements of Art](https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html)
+[Elements of Art](https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html) -->
 <!-- https://courses.edtechleaders.org/crystalbridges/taa/cb_s1.html -->
 <!-- [Introducing Formal Analysis: Still Life](https://www.youtube.com/watch?v=kxALpig_Cac&ab_channel=GettyMuseum) -->
 
@@ -110,7 +108,7 @@ Bonus:
 
 [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 
-### Essential Videos
+<!-- ### Essential Videos
 
 [Make your own pinhole camera to watch solar eclipse](https://www.youtube.com/watch?v=-mY5xwR_kl0&ab_channel=WSLS10)
 
@@ -132,7 +130,6 @@ Bonus:
 
 [International Orange: Abelardo Morell, Tent Camera Photographs](https://www.youtube.com/watch?v=EV-qwEUCWtw&ab_channel=FOR-SITEFoundation)
 
-
 #### Film is back(!)
 
 [How Does Film ACTUALLY Work? (It's MAGIC) [Photos and Development] - Smarter Every Day 258](https://www.youtube.com/watch?v=TCxoZlFqzwA&ab_channel=SmarterEveryDay)
@@ -143,4 +140,4 @@ Bonus:
 
 [This Thing is Crazy Fast - Smarter Every Day 286](https://www.youtube.com/watch?v=mrJP82ZZiag&ab_channel=SmarterEveryDay)
 
-[How Kodak Exposed Nuclear Testing](https://www.youtube.com/watch?v=7pSqk-XV2QM&ab_channel=Veritasium)
+[How Kodak Exposed Nuclear Testing](https://www.youtube.com/watch?v=7pSqk-XV2QM&ab_channel=Veritasium) -->
